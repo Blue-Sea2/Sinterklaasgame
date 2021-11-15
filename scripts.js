@@ -1,7 +1,7 @@
 game = document.getElementById("game");
 console.log(game);
 
-function game(url){
+function game(url) {
 	game.src = url;
 	console.log(url);
 }
