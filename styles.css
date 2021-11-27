@@ -16,7 +16,6 @@ body{
 }
 
 iframe.game {
-	border: none;
 	width: 500;
 	height: 500;
 }
