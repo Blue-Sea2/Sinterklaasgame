@@ -1,6 +1,9 @@
 .error{
 	background-color: #FF0000 !important;
 }
+.error:hover {
+	background-color: #FF2222 !important;
+}
 
 body, html{
 	background-color: #030340;
@@ -18,6 +21,10 @@ body, html{
 	font-size: 16px;
 	margin: 4px 2px;
 	cursor: pointer;
+	border-radius: 25px;
+}
+.buttons button:hover {
+	background-color: #5DBF61;
 }
 
 .buttons{
