@@ -37,12 +37,12 @@ iframe {
 .c_game-frame__iframe {	
 	position: absolute;
         display: block;
-        top: 0;
+        bottom: 0;
 
         height: 0;
         max-height: 100%;
         max-width: 100%;
-        min-height: 100%;
-        min-width: 100%;
+        min-height: 80%;
+        min-width: 99%;
         width: 0;
 }
