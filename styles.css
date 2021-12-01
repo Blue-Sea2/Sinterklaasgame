@@ -27,7 +27,7 @@ body, html{
 	height: 20%
 }
 
-iframe.game {
+iframe {
 	border: none;
 	margin: 0;
 	width: 100%;
