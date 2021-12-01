@@ -12,10 +12,10 @@ body, html{
 
 .newTab {
 	float: right; 
-	background-color: #0044FF;
+	background-color: #0044FF !important;
 }
 .newTab:hover {
-	background-color: #00AAFF;
+	background-color: #00AAFF !important;
 }
 
 .buttons button{
