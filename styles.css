@@ -52,11 +52,5 @@ iframe {
 	position: absolute;
         display: block;
         bottom: 0;
-
-        height: 0;
-        max-height: 100%;
-        max-width: 100%;
-        min-height: 80%;
-        min-width: 99%;
-        width: 0;
+        width: -webkit-fill-available;
 }
