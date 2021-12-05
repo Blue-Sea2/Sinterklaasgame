@@ -62,8 +62,6 @@ iframe {
 }
 
 .c_game-frame__iframe {	
-	position: absolute;
         display: block;
-        bottom: 0;
         width: -webkit-fill-available;
 }
