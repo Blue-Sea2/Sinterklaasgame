@@ -4,6 +4,12 @@
 	flex-wrap: wrap;
 	justify-content: center;
 }
+body {
+	display: flex;
+	align-items: stretch;
+	flex-wrap: wrap;
+	justify-content: center;
+}
 
 .error{
 	background-color: #FF0000 !important;
@@ -53,6 +59,7 @@ iframe {
 	border: none;
 	margin: 0;
 	width: 100%;
+	flex-grow: 1;
 }
 
 .c_game-frame__iframe {	
