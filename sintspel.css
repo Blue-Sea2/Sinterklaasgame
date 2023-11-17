@@ -50,4 +50,15 @@ input{
     background-color: #890909;
     padding: 10px 20px 20px 20px;
     border-bottom: #fde64c 10px solid;
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+}
+.sint{
+    height:830px;
+    width: 100%;
+    background-size: 740px 1660px;
+    background-image: url('https://sinterklaasjournaal.ntr.nl/static/media/sint.bdc8e7496e5df6b1c552.png');
+    position: fixed;
+    bottom: 0px;
 }
