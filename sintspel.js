@@ -51,4 +51,10 @@ function on() {
 function off() {
     overlay.style.display = "none";
     document.getElementById("player").remove();
-} 
+}
+
+document.onkeyup = function(e) {
+    if (e.key === "Escape") {
+       off()
+   }
+};
