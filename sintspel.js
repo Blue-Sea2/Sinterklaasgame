@@ -24,7 +24,13 @@ var games = {
     treinspel: 'pietengames-2019/treinspel.html',
     verlanglijstje: 'pieten-minigames-2019/verlanglijstje.html',
     vlekkenpoetsen: 'pieten-minigames-2019/vlekkenpoetsen.html',
-    pietenjump: 'pietengames-2018/pietenjump.html'
+    pietenjump: 'pietengames-2018/pietenjump.html',
+    aankleden: 'pietengames-2023/aankleden.html',
+    rijmen: 'pietengames-2022/rijmen.html',
+    muziekband: 'pietengames-2022/muziekband.html',
+    geefhetdoor: 'pieten-minigames-2022/geefhetdoor.html',
+    paardjepoetsen: 'pieten-minigames-2022/paardjepoetsen.html',
+    raapspel: 'pietengames-2017/raapspel.html'
 }
 
 let player = document.createElement("iframe");
