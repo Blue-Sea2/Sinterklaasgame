@@ -30,7 +30,8 @@ var games = {
     muziekband: 'pietengames-2022/muziekband.html',
     geefhetdoor: 'pieten-minigames-2022/geefhetdoor.html',
     paardjepoetsen: 'pieten-minigames-2022/paardjepoetsen.html',
-    raapspel: 'pietengames-2017/raapspel.html'
+    raapspel: 'pietengames-2017/raapspel.html',
+    aanmeren: 'pietengames-2023/aanmeren.html'
 }
 
 let player = document.createElement("iframe");
