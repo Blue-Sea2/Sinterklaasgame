@@ -1,4 +1,5 @@
 var games = {
+    verstoppen: 'pietengames-2023/verstoppen.html',
     ozosnel: 'pietengames-2019/ozosnel.html',
     waarozosnel: 'pieten-minigames-2021/ozosnel.html',
     precisiestrooien: 'pieten-minigames-2020/precisiestrooien.html',
